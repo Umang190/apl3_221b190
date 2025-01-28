@@ -1,0 +1,6 @@
+class Child extends Mother
+{
+    
+    
+    
+}
